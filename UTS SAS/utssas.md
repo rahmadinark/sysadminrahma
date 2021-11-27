@@ -188,7 +188,6 @@ Kemudian install
 ![](asset/44.jpg)
 
 ## Installasi DNS
----
 
 Kemudian install DNS server sama seperti menginstal domain 
 
@@ -196,14 +195,12 @@ Kemudian install DNS server sama seperti menginstal domain
 ![](asset/50.jpg)
 
 ## Installasi Net Framework 3.5
----
 
 Setelah selesai install NET Framework 3.5
 
 ![](asset/51.jpg)
 
 ## Promote Server To A Domain
----
 
 - Pilih network setting
   
