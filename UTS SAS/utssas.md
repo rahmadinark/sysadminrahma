@@ -164,54 +164,47 @@ Kemudian pilih Add Roles and Features dan next
 
 ![](asset/38.jpg)
 
-```
 Pilih Role-Based or feature-based installation kemudian next
-```
 
 ![](asset/39.jpg)
 
-```
 Setelah itu pilih select a server from the server pool
 
-```
 ![](asset/40.jpg)
-```
+
 Lalu pilih active directory domain server
-```
+
 ![](asset/41.jpg)
-```
+
 Kemudain klik add features
-```
+
 ![](asset/42.jpg)
 
-```
 Kemudian ke features lalu centang Group Policy Management dan next
-```
+
 ![](asset/43.jpg)
-```
+
 Kemudian install
-```
 
 ![](asset/44.jpg)
 
-
 ## Installasi DNS
+---
 
-```
 Kemudian install DNS server sama seperti menginstal domain 
-```
+
 ![](asset/49.jpg)
 ![](asset/50.jpg)
 
-## Installasi NET FRAMEWORK 3.5
+## Installasi Net Framework 3.5
+---
 
-```
 Setelah selesai install NET Framework 3.5
-```
 
 ![](asset/51.jpg)
 
 ## Promote Server To A Domain
+---
 
 - Pilih network setting
   
