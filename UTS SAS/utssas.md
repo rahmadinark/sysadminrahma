@@ -150,7 +150,6 @@ Soal UTS dapat diaskes [disini.](https://yptorid-my.sharepoint.com/:w:/g/persona
          ![](asset/35.jpg)
 
 ## Instalasi Active Directory Domain Server
----
 
 Ubah nama computer di windows powershell dengan mengetik > “rename-computer -Newname Server2022”
 
